@@ -1,0 +1,5 @@
+dataset_name: twitch
+edge_data:
+- file_name: musae_ENGB_edges.csv
+node_data:
+- file_name: musae_ENGB_target.csv

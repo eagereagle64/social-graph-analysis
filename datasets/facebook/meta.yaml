@@ -1,0 +1,5 @@
+dataset_name: facebook
+edge_data:
+- file_name: musae_facebook_edges.csv
+node_data:
+- file_name: musae_facebook_target.csv
